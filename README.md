@@ -11,5 +11,5 @@ This will send the file `flag.txt` to specified path `/folder1/flag.txt`.
 #### Prerequisite
 you need to have a dropbox account and access_token for that. you can get it by following this [article](http://99rabbits.com/get-dropbox-access-token/)
 
-The file `send_request.py` sends post request with cookie containig data which is getting exploited by node js deserialization [exploit](https://www.exploit-db.com/exploits/49552).
+The file `send_request.py` sends post request with cookie containig data which is getting exploited by node js deserialization [exploit](https://www.exploit-db.com/exploits/49552).  
 check you commands from file `text.js`.
